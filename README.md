@@ -4,3 +4,4 @@ This repository contains codes related to the courses I have completed on the Co
 
 [Data Analysis and Interpretation](https://www.coursera.org/specializations/data-analysis)  
 [Statistics with R](https://www.coursera.org/specializations/statistics)
+[Deep Learning]
