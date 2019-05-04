@@ -1,6 +1,6 @@
 # Projects
 
-This repository contains projects related to the courses I have completed on the Coursera. The specializations that I have completed/pursuing are 
+This repository contains projects related to the courses I have completed on the Coursera. The specializations that I have completed/pursuing are -
 
 1. [Data Analysis and Interpretation](https://www.coursera.org/specializations/data-analysis)  
 2. [Statistics with R](https://www.coursera.org/specializations/statistics)  
