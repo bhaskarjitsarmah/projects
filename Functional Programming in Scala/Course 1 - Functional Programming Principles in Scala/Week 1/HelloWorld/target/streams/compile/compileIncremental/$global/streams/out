@@ -1,0 +1,39 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(C:\Users\user\IdeaProjects\HelloWorld\src\main\scala\HelloWorld.scala)[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set(C:\Users\user\IdeaProjects\HelloWorld\target\scala-2.11\classes\HelloWorld$delayedInit$body.class, C:\Users\user\IdeaProjects\HelloWorld\target\scala-2.11\classes\HelloWorld.class)[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(C:\Users\user\IdeaProjects\HelloWorld\src\main\scala\HelloWorld.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(C:\Users\user\IdeaProjects\HelloWorld\src\main\scala\HelloWorld.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\user\IdeaProjects\HelloWorld\src\main\scala\HelloWorld.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to C:\Users\user\IdeaProjects\HelloWorld\target\scala-2.11\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 274023bd, interfacing (CompilerInterface) with Scala compiler version 2.11.8[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre1.8.0_211\lib\resources.jar;C:\Program Files\Java\jre1.8.0_211\lib\rt.jar;C:\Program Files\Java\jre1.8.0_211\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_211\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_211\lib\jce.jar;C:\Program Files\Java\jre1.8.0_211\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_211\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_211\classes;C:\Users\user\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\user\IdeaProjects\HelloWorld\target\scala-2.11\classes[0m
+[0m[[0mdebug[0m] [0mScala compilation took 2.868898319 s[0m
+[0m[[0mdebug[0m] [0mInvalidating C:\Users\user\IdeaProjects\HelloWorld\src\main\scala\HelloWorld.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from C:\Users\user\IdeaProjects\HelloWorld\src\main\scala\HelloWorld.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Users\user\IdeaProjects\HelloWorld\src\main\scala\HelloWorld.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(C:\Users\user\IdeaProjects\HelloWorld\src\main\scala\HelloWorld.scala)[0m
+[0m[[0mdebug[0m] [0mThe C:\Users\user\IdeaProjects\HelloWorld\src\main\scala\HelloWorld.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, asInstanceOf, executionStart, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, <init>, ==, clone, toString, args, !=, getClass, ne, eq, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
